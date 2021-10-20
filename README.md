@@ -2,10 +2,10 @@
 
 A ticket reservation program that handles the seating of people attending an event. 
 
-The program allows the user to perform the following options:
-a.	Reserve a seat for an attendee
-b.	Update status of a seat reservation
-c.	Show attendance report
+The program allows the user to perform the following options:\
+a.	Reserve a seat for an attendee\
+b.	Update status of a seat reservation\
+c.	Show attendance report\
 
 When reserving a seat for an attendee, the program obtains the name of the attendee and price paid for the event. The program then asks for the seat location (seat location ranging from 101 to 199) for the attendee and reserves it for that person. The program does not allow reservations for multiple attendees to the same seat location.
 
